@@ -1,4 +1,4 @@
-﻿Hola mi nombre es Mateo y tengo
+Hola mi nombre es Mateo y tengo
 
 25
 
@@ -14,7 +14,3 @@ iteuoiewuriuowerw
 
 
 Prueba git commit ammend
-
-Vida, es de la utp}
-
-Y obra maestra
